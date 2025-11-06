@@ -208,7 +208,7 @@ export default function App() {
               transition={{ delay: 2.2, duration: 1 }}
               className="mt-8 sm:mt-10 text-xs sm:text-sm text-gray-700"
             >
-              Made with ❤️ by Raghav — Happy Silver Jubilee, Mummy and Papa
+              Made by Raghav — Happy Silver Jubilee, Mummy and Papa
             </motion.footer>
           </motion.div>
         )}
